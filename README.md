@@ -1,5 +1,7 @@
 # CFG Python Course Project
 
+## Code First Girls: Introduction to Python Programming Course
+
 I undertook the Introduction to Python Programming course run by Code First Girls during spring 2020. It was my first experience of Python. The course took place one evening a week for 8 weeks and covered the following topics:
 
 * data types and variables  
